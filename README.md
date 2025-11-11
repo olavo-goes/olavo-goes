@@ -1,4 +1,4 @@
-# 🚀 Olavo Goes
+# Olavo Goes
 
 **`Full-Stack Developer | UI Designer | Tech Explorer`**
 
