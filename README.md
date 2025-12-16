@@ -1,6 +1,6 @@
 # Olavo Goes
 
-**`Full-Stack Developer | UI Designer | Tech Explorer`**
+**`Full-Stack Developer | UI Designer | Tech Explorer | Técnico em Informática - IFMS`**
 
 Desenvolvedor full-stack com experiência em front-end, back-end e design de interfaces. Atuo em todas as etapas do ciclo de desenvolvimento de software — desde o planejamento com Astah e Figma até a implementação com React, Node.js, Express e PostgreSQL. Tenho domínio de tecnologias modernas para construção de aplicações escaláveis e interfaces responsivas, seguindo o padrão arquitetural MVC e utilizando Prisma ORM com SQLite. Também aplico boas práticas de versionamento de código com Git em todos os projetos.
 
