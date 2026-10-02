@@ -1,4 +1,4 @@
-<h1 align="center">Olavo Góes</h1>
+<h1 align="center">Olavo Cesar Oliveira Maciel Goes</h1>
 <h3 align="center">Desenvolvedor</h3>
 <p align="center"><b>Aberto a oportunidades como Desenvolvedor Júnior</b></p>
 
@@ -60,6 +60,7 @@ Tenho foco em código limpo, organização de projetos, versionamento com Git e 
 ## 🎓 Formação
 
 **Técnico em Informática** — Instituto Federal de Mato Grosso do Sul (IFMS)
+**Análise e Desenvolvimento de Sistemas** — Instituto Federal de Mato Grosso do Sul (IFMS) - (Cursando)
 
 ## 🚀 Projetos em destaque
 
