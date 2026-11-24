@@ -62,13 +62,6 @@ Tenho foco em código limpo, organização de projetos, versionamento com Git e 
 **Técnico em Informática** — Instituto Federal de Mato Grosso do Sul (IFMS)
 **Análise e Desenvolvimento de Sistemas** — Instituto Federal de Mato Grosso do Sul (IFMS) - (Cursando)
 
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Nome do projeto](https://github.com/olavo-goes/NOME_DO_REPO) | O que faz e qual problema resolve | Node.js, Express, Prisma |
-| [Nome do projeto](https://github.com/olavo-goes/NOME_DO_REPO) | O que faz e qual problema resolve | React, Vite, PWA |
-
 ## 📊 Estatísticas
 
 <p align="center">
